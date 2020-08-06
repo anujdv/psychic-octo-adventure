@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+nav{
+	text-align: center;
+	font-variant: small-caps;
+}
+h2{
+	text-align: center;
+}
+section{
+	text-align: center;
+}
+ul{
+	text-align: center;
+	display: inline-block;
+}
+footer{
+	text-align: center;
+}
+img{
+	text-align: center;
+}
